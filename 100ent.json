@@ -1,0 +1,1402 @@
+[
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 1",
+        "output": {
+            "ID": "1",
+            "Description": "Microsoft IIS - WebDAV 'ntdll.dll' Remote Overflow",
+            "Date Published": "2003-03-23",
+            "Author": "kralor",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4467;CVE-2003-0109"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 2",
+        "output": {
+            "ID": "2",
+            "Description": "Microsoft IIS 5.0 - WebDAV Remote",
+            "Date Published": "2003-03-24",
+            "Author": "RoMaNSoFt",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4467;CVE-2003-0109"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 3",
+        "output": {
+            "ID": "3",
+            "Description": "Linux Kernel 2.2.x/2.4.x (RedHat) - 'ptrace/kmod' Local Privilege Escalation",
+            "Date Published": "2003-03-30",
+            "Author": "Wojciech Purczynski",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4565;CVE-2003-0127"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 4",
+        "output": {
+            "ID": "4",
+            "Description": "Sun SUNWlldap Library Hostname - Local Buffer Overflow",
+            "Date Published": "2003-04-01",
+            "Author": "Andi",
+            "Platform": "solaris",
+            "Codes": [
+                "OSVDB-15148;CVE-2003-1055"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 5",
+        "output": {
+            "ID": "5",
+            "Description": "Microsoft Windows 2000/NT 4 - RPC Locator Service Remote Overflow",
+            "Date Published": "2003-04-03",
+            "Author": "Marcin Wolak",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-7117;CVE-2003-0003"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 8",
+        "output": {
+            "ID": "8",
+            "Description": "SETI@home Clients - Remote Buffer Overflow",
+            "Date Published": "2003-04-08",
+            "Author": "zillion",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-16017;CVE-2003-1118"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 9",
+        "output": {
+            "ID": "9",
+            "Description": "Apache 2.x - Memory Leak",
+            "Date Published": "2003-04-09",
+            "Author": "Matthew Murphy",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-9712;CVE-2003-0132"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 10",
+        "output": {
+            "ID": "10",
+            "Description": "Samba < 2.2.8 (Linux/BSD) - Remote Code Execution",
+            "Date Published": "2003-04-10",
+            "Author": "eSDee",
+            "Platform": "multiple",
+            "Codes": [
+                "OSVDB-4469;CVE-2003-0201"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 12",
+        "output": {
+            "ID": "12",
+            "Description": "Linux Kernel < 2.4.20 - Module Loader Privilege Escalation",
+            "Date Published": "2003-04-14",
+            "Author": "KuRaK",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4565;CVE-2003-0127"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 13",
+        "output": {
+            "ID": "13",
+            "Description": "Chindi Server 1.0 - Denial of Service",
+            "Date Published": "2003-04-18",
+            "Author": "Luca Ercoli",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-60470"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 15",
+        "output": {
+            "ID": "15",
+            "Description": "Apple Mac OSX 10.2.4 - DirectoryService 'PATH' Local Privilege Escalation",
+            "Date Published": "2003-04-18",
+            "Author": "Neeko Oni",
+            "Platform": "osx",
+            "Codes": [
+                "OSVDB-7042;CVE-2003-0171"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 16",
+        "output": {
+            "ID": "16",
+            "Description": "PoPToP PPTP 1.1.4-b3 - Remote Command Execution",
+            "Date Published": "2003-04-18",
+            "Author": "einstein",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-3293;CVE-2003-0213"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 19",
+        "output": {
+            "ID": "19",
+            "Description": "PoPToP PPTP 1.1.4-b3 - 'poptop-sane.c' Remote Command Execution",
+            "Date Published": "2003-04-25",
+            "Author": "blightninjas",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-3293;CVE-2003-0213"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 20",
+        "output": {
+            "ID": "20",
+            "Description": "Microsoft Windows 2000/XP - SMB Authentication Remote Overflow",
+            "Date Published": "2003-04-25",
+            "Author": "Haamed Gheibi",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-49736;CVE-2008-4037"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 21",
+        "output": {
+            "ID": "21",
+            "Description": "Qpopper 4.0.x - 'poppassd' Privilege Escalation",
+            "Date Published": "2003-04-29",
+            "Author": "Xpl017Elz",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-60330;CVE-2003-1452"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 22",
+        "output": {
+            "ID": "22",
+            "Description": "Pi3Web 2.0.1 - Denial of Service (PoC)",
+            "Date Published": "2003-04-29",
+            "Author": "aT4r",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11091;CVE-2003-0276"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 23",
+        "output": {
+            "ID": "23",
+            "Description": "RealServer < 8.0.2 (Windows Platforms) - Remote Overflow",
+            "Date Published": "2003-04-30",
+            "Author": "Johnny Cyberpunk",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4579;CVE-2002-1643"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 24",
+        "output": {
+            "ID": "24",
+            "Description": "Sendmail 8.12.8 (BSD) - 'Prescan()' Remote Command Execution",
+            "Date Published": "2003-04-30",
+            "Author": "bysin",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-8294;CVE-2003-0161"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 25",
+        "output": {
+            "ID": "25",
+            "Description": "OpenSSH/PAM 3.6.1p1 - Remote Users Discovery Tool",
+            "Date Published": "2003-04-30",
+            "Author": "Maurizio Agazzini",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2140;CVE-2003-0190"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 28",
+        "output": {
+            "ID": "28",
+            "Description": "Kerio Personal Firewall 2.1.4 - Remote Code Execution",
+            "Date Published": "2003-05-08",
+            "Author": "Burebista",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-6294;CVE-2003-0220"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 29",
+        "output": {
+            "ID": "29",
+            "Description": "Firebird 1.0.2 (FreeBSD 4.7-RELEASE) - Local Privilege Escalation",
+            "Date Published": "2003-05-12",
+            "Author": "bob",
+            "Platform": "bsd",
+            "Codes": [
+                "OSVDB-6793;CVE-2003-0281;CVE-2002-2087;OSVDB-19751;OSVDB-19750"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 32",
+        "output": {
+            "ID": "32",
+            "Description": "Microsoft Windows XP - 'explorer.exe' Local Buffer Overflow",
+            "Date Published": "2003-05-21",
+            "Author": "einstein",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-13409;CVE-2003-0306"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 33",
+        "output": {
+            "ID": "33",
+            "Description": "WsMp3d 0.x - Remote Heap Overflow",
+            "Date Published": "2003-05-22",
+            "Author": "Xpl017Elz",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-12028;CVE-2003-0339"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 35",
+        "output": {
+            "ID": "35",
+            "Description": "Microsoft IIS 5.0 < 5.1 - Remote Denial of Service",
+            "Date Published": "2003-05-31",
+            "Author": "Shachank",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-13385;CVE-2003-0226"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 36",
+        "output": {
+            "ID": "36",
+            "Description": "Microsoft Windows - WebDAV Remote Code Execution (2)",
+            "Date Published": "2003-06-01",
+            "Author": "alumni",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4467;CVE-2003-0109"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 39",
+        "output": {
+            "ID": "39",
+            "Description": "Atftpd 0.6 - 'atftpdx.c' Remote Command Execution",
+            "Date Published": "2003-06-10",
+            "Author": "gunzip",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4343;CVE-2003-0380"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 42",
+        "output": {
+            "ID": "42",
+            "Description": "Winmail Mail Server 2.3 Build 0402 - Remote Format String",
+            "Date Published": "2003-06-11",
+            "Author": "ThreaT",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4921;CVE-2003-0391"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 45",
+        "output": {
+            "ID": "45",
+            "Description": "Yahoo Messenger 5.5 - 'DSR-ducky.c' Remote Overflow",
+            "Date Published": "2003-06-23",
+            "Author": "Rave",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-16016;CVE-2002-0031"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 46",
+        "output": {
+            "ID": "46",
+            "Description": "Kerio MailServer 5.6.3 - Remote Buffer Overflow",
+            "Date Published": "2003-06-27",
+            "Author": "B-r00t",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4954;CVE-2003-0487"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 47",
+        "output": {
+            "ID": "47",
+            "Description": "phpBB 2.0.4 - PHP Remote File Inclusion",
+            "Date Published": "2003-06-30",
+            "Author": "Spoofed",
+            "Platform": "php",
+            "Codes": [
+                "OSVDB-4278"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 48",
+        "output": {
+            "ID": "48",
+            "Description": "Microsoft Windows Media Services - Remote (MS03-022)",
+            "Date Published": "2003-07-01",
+            "Author": "firew0rker",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2247;CVE-2003-0349;MS03-022"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 49",
+        "output": {
+            "ID": "49",
+            "Description": "eXtremail 1.5.x (Linux) - Remote Format Strings",
+            "Date Published": "2003-07-02",
+            "Author": "B-r00t",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-14147;CVE-2001-1078"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 51",
+        "output": {
+            "ID": "51",
+            "Description": "Microsoft IIS 5.0 - WebDAV Remote Code Execution (3) (xwdav)",
+            "Date Published": "2003-07-08",
+            "Author": "Schizoprenic",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4467;CVE-2003-0109"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 53",
+        "output": {
+            "ID": "53",
+            "Description": "CCBILL CGI - 'ccbillx.c' 'whereami.cgi' Remote Code Execution",
+            "Date Published": "2003-07-10",
+            "Author": "knight420",
+            "Platform": "cgi",
+            "Codes": [
+                "OSVDB-3395"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 54",
+        "output": {
+            "ID": "54",
+            "Description": "LeapWare LeapFTP 2.7.x - Remote Buffer Overflow",
+            "Date Published": "2003-07-12",
+            "Author": "drG4njubas",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-4587;CVE-2003-0558"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 55",
+        "output": {
+            "ID": "55",
+            "Description": "Samba 2.2.8 - Brute Force Method Remote Command Execution",
+            "Date Published": "2003-07-13",
+            "Author": "Schizoprenic",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4469;CVE-2003-0201"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 56",
+        "output": {
+            "ID": "56",
+            "Description": "Microsoft Windows Media Services - 'nsiislog.dll' Remote Overflow",
+            "Date Published": "2003-07-14",
+            "Author": "anonymous",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2106;CVE-2003-0227"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 57",
+        "output": {
+            "ID": "57",
+            "Description": "Solaris 2.6/7/8 - 'TTYPROMPT in.telnet' Remote Authentication Bypass",
+            "Date Published": "2002-11-02",
+            "Author": "Jonathan S.",
+            "Platform": "solaris",
+            "Codes": [
+                "OSVDB-690;CVE-2001-0797"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 58",
+        "output": {
+            "ID": "58",
+            "Description": "Citadel/UX BBS 6.07 - Remote Overflow",
+            "Date Published": "2003-07-17",
+            "Author": "Carl Livitt",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-60576"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 59",
+        "output": {
+            "ID": "59",
+            "Description": "Cisco IOS - IPv4 Packets Denial of Service",
+            "Date Published": "2003-07-18",
+            "Author": "l0cK",
+            "Platform": "hardware",
+            "Codes": [
+                "OSVDB-2325;CVE-2003-0567"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 60",
+        "output": {
+            "ID": "60",
+            "Description": "Cisco IOS - 'cisco-bug-44020.c' IPv4 Packet Denial of Service",
+            "Date Published": "2003-07-21",
+            "Author": "Martin Kluge",
+            "Platform": "hardware",
+            "Codes": [
+                "OSVDB-2325;CVE-2003-0567"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 61",
+        "output": {
+            "ID": "61",
+            "Description": "Microsoft Windows Server 2000 - RPC DCOM Interface Denial of Service",
+            "Date Published": "2003-07-21",
+            "Author": "Flashsky",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 63",
+        "output": {
+            "ID": "63",
+            "Description": "miniSQL (mSQL) 1.3 - GID Remote Code Execution",
+            "Date Published": "2003-07-25",
+            "Author": "the itch",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2349"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 64",
+        "output": {
+            "ID": "64",
+            "Description": "Microsoft Windows - 'RPC DCOM' Remote Buffer Overflow",
+            "Date Published": "2003-07-25",
+            "Author": "Flashsky",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 65",
+        "output": {
+            "ID": "65",
+            "Description": "Microsoft Windows SQL Server - Remote Denial of Service (MS03-031)",
+            "Date Published": "2003-07-25",
+            "Author": "refdom",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10123;CVE-2003-0232;MS03-031"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 66",
+        "output": {
+            "ID": "66",
+            "Description": "Microsoft Windows XP/2000 - 'RPC DCOM' Remote (MS03-026)",
+            "Date Published": "2003-07-26",
+            "Author": "H D Moore",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605;MS03-026"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 67",
+        "output": {
+            "ID": "67",
+            "Description": "Apache 1.3.x mod_mylo - Remote Code Execution",
+            "Date Published": "2003-07-28",
+            "Author": "Carl Livitt",
+            "Platform": "multiple",
+            "Codes": [
+                "OSVDB-10976;CVE-2003-0651"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 69",
+        "output": {
+            "ID": "69",
+            "Description": "Microsoft Windows - 'RPC DCOM' Remote (1)",
+            "Date Published": "2003-07-29",
+            "Author": "pHrail",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 70",
+        "output": {
+            "ID": "70",
+            "Description": "Microsoft Windows - 'RPC DCOM' Remote (2)",
+            "Date Published": "2003-07-30",
+            "Author": "anonymous",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 71",
+        "output": {
+            "ID": "71",
+            "Description": "XGalaga 2.0.34 (RedHat 9.0) - Local Game",
+            "Date Published": "2003-07-31",
+            "Author": "c0wboy",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-10613;CVE-2003-0454"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 72",
+        "output": {
+            "ID": "72",
+            "Description": "xtokkaetama 1.0b (RedHat 9.0) - Local Game",
+            "Date Published": "2003-08-01",
+            "Author": "brahma",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2343;CVE-2003-0611"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 73",
+        "output": {
+            "ID": "73",
+            "Description": "Trillian 0.74 - Remote Denial of Service",
+            "Date Published": "2003-08-01",
+            "Author": "l0bstah",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10799;CVE-2002-1487"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 74",
+        "output": {
+            "ID": "74",
+            "Description": "WU-FTPD 2.6.2 - Off-by-One Remote Command Execution",
+            "Date Published": "2003-08-03",
+            "Author": "Xpl017Elz",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2133;CVE-2003-0466"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 76",
+        "output": {
+            "ID": "76",
+            "Description": "Microsoft Windows - 'RPC DCOM' Remote (Universal)",
+            "Date Published": "2003-08-07",
+            "Author": "oc192",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 77",
+        "output": {
+            "ID": "77",
+            "Description": "Cisco IOS 12.x/11.x - HTTP Remote Integer Overflow",
+            "Date Published": "2003-08-10",
+            "Author": "FX",
+            "Platform": "hardware",
+            "Codes": [
+                "OSVDB-2342;CVE-2003-0647"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 78",
+        "output": {
+            "ID": "78",
+            "Description": "WU-FTPD 2.6.2 - Remote Command Execution",
+            "Date Published": "2003-08-11",
+            "Author": "Xpl017Elz",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2133;CVE-2003-0466"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 79",
+        "output": {
+            "ID": "79",
+            "Description": "DameWare Mini Remote Control Server - System",
+            "Date Published": "2003-08-13",
+            "Author": "ash",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-3042;CVE-2003-1030"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 80",
+        "output": {
+            "ID": "80",
+            "Description": "Oracle XDB FTP Service - UNLOCK Buffer Overflow",
+            "Date Published": "2003-08-13",
+            "Author": "David Litchfield",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-22266;CVE-2003-0727"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 81",
+        "output": {
+            "ID": "81",
+            "Description": "Microsoft Windows Server 2000 - RSVP Server Authority Hijacking",
+            "Date Published": "2003-08-15",
+            "Author": "ste jones",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-60578"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 82",
+        "output": {
+            "ID": "82",
+            "Description": "Piolet Client 1.05 - Remote Denial of Service",
+            "Date Published": "2003-08-20",
+            "Author": "Luca Ercoli",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2462"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 84",
+        "output": {
+            "ID": "84",
+            "Description": "Gopherd 3.0.5 - FTP Gateway Remote Overflow",
+            "Date Published": "2003-08-22",
+            "Author": "vade79",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-55702"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 86",
+        "output": {
+            "ID": "86",
+            "Description": "Real Server 7/8/9 (Windows / Linux) - Remote Code Execution",
+            "Date Published": "2003-08-25",
+            "Author": "Johnny Cyberpunk",
+            "Platform": "multiple",
+            "Codes": [
+                "OSVDB-11772;CVE-2003-0725"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 88",
+        "output": {
+            "ID": "88",
+            "Description": "GtkFtpd 1.0.4 - Remote Buffer Overflow",
+            "Date Published": "2003-08-28",
+            "Author": "vade79",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-6454;CVE-2003-0755"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 89",
+        "output": {
+            "ID": "89",
+            "Description": "Linux pam_lib_smb < 1.1.6 - '/bin/login' Remote Overflow",
+            "Date Published": "2003-08-29",
+            "Author": "vertex",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2476;CVE-2003-0686"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 90",
+        "output": {
+            "ID": "90",
+            "Description": "eMule/xMule/LMule - OP_SERVERMESSAGE Format String",
+            "Date Published": "2003-09-01",
+            "Author": "R\u00c3\u00a9mi Denis-Courmont",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2443"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 91",
+        "output": {
+            "ID": "91",
+            "Description": "Stunnel 3.24/4.00 - Daemon Hijacking",
+            "Date Published": "2003-09-05",
+            "Author": "Steve Grubb",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-6451;CVE-2003-0740"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 92",
+        "output": {
+            "ID": "92",
+            "Description": "Microsoft WordPerfect Document Converter (Windows NT4 Workstation SP5/SP6 French) - File Template Buffer Overflow (MS03-036)",
+            "Date Published": "2003-09-06",
+            "Author": "valgasu",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10006;CVE-2003-0666;MS03-036"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 93",
+        "output": {
+            "ID": "93",
+            "Description": "RealPlayer 9 *nix - Local Privilege Escalation",
+            "Date Published": "2003-09-09",
+            "Author": "Jon Hart",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2533"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 94",
+        "output": {
+            "ID": "94",
+            "Description": "MyServer 0.4.3 - Denial of Service",
+            "Date Published": "2003-09-08",
+            "Author": "badpack3t",
+            "Platform": "multiple",
+            "Codes": [
+                "OSVDB-2808"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 95",
+        "output": {
+            "ID": "95",
+            "Description": "Roger Wilco 1.x - Client Data Buffer Overflow",
+            "Date Published": "2003-09-10",
+            "Author": "Luigi Auriemma",
+            "Platform": "multiple",
+            "Codes": [
+                "OSVDB-16705;CVE-2003-0767"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 96",
+        "output": {
+            "ID": "96",
+            "Description": "4D WebSTAR FTP Server Suite - Remote Buffer Overflow",
+            "Date Published": "2003-09-11",
+            "Author": "B-r00t",
+            "Platform": "osx",
+            "Codes": [
+                "OSVDB-2542"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 97",
+        "output": {
+            "ID": "97",
+            "Description": "Microsoft Windows - 'RPC DCOM' Scanner (MS03-039)",
+            "Date Published": "2003-09-12",
+            "Author": "Doke Scott",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605;MS03-039"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 98",
+        "output": {
+            "ID": "98",
+            "Description": "MySQL 3.23.x/4.0.x - Remote Buffer Overflow",
+            "Date Published": "2003-09-14",
+            "Author": "bkbll",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2537;CVE-2003-0780"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 99",
+        "output": {
+            "ID": "99",
+            "Description": "Pine 4.56 - Remote Buffer Overflow",
+            "Date Published": "2003-09-16",
+            "Author": "sorbo",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-9003;CVE-2003-0720"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 100",
+        "output": {
+            "ID": "100",
+            "Description": "Microsoft Windows - 'RPC DCOM' Long Filename Overflow (MS03-026)",
+            "Date Published": "2003-09-16",
+            "Author": "ey4s",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2100;CVE-2003-0352;MS03-026"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 102",
+        "output": {
+            "ID": "102",
+            "Description": "Knox Arkeia Pro 5.1.12 - Backup Remote Code Execution",
+            "Date Published": "2003-09-20",
+            "Author": "anonymous",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-14011;CVE-2005-0491"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 103",
+        "output": {
+            "ID": "103",
+            "Description": "Microsoft Windows - 'RPC DCOM2' Remote (MS03-039)",
+            "Date Published": "2003-09-20",
+            "Author": "Flashsky",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605;MS03-039"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 104",
+        "output": {
+            "ID": "104",
+            "Description": "hztty 2.0 (RedHat 9.0) - Local Privilege Escalation",
+            "Date Published": "2003-09-21",
+            "Author": "c0wboy",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-7119;CVE-2003-0783"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 106",
+        "output": {
+            "ID": "106",
+            "Description": "IBM DB2 - Universal Database 7.2 'db2licm' Local Overflow",
+            "Date Published": "2003-09-27",
+            "Author": "Juan Escriba",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2171;CVE-2003-0759"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 107",
+        "output": {
+            "ID": "107",
+            "Description": "ProFTPd 1.2.9 rc2 - '.ASCII' File Remote Code Execution (1)",
+            "Date Published": "2003-10-04",
+            "Author": "bkbll",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-10769;CVE-2003-0831"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 109",
+        "output": {
+            "ID": "109",
+            "Description": "Microsoft Windows - 'RPC2' Universal / Denial of Service (RPC3) (MS03-039)",
+            "Date Published": "2003-10-09",
+            "Author": "anonymous",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605;MS03-039"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 110",
+        "output": {
+            "ID": "110",
+            "Description": "ProFTPd 1.2.7 < 1.2.9rc2 - Remote Code Execution / Brute Force",
+            "Date Published": "2003-10-13",
+            "Author": "Haggis",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-10769;CVE-2003-0831"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 111",
+        "output": {
+            "ID": "111",
+            "Description": "Microsoft Windows Messenger Service - Denial of Service (MS03-043)",
+            "Date Published": "2003-10-18",
+            "Author": "LSD-PLaNET",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10936;CVE-2003-0717;MS03-043"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 112",
+        "output": {
+            "ID": "112",
+            "Description": "mIRC 6.1 - 'IRC' Protocol Remote Buffer Overflow",
+            "Date Published": "2003-10-21",
+            "Author": "blasty",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2665;CVE-2003-1336"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 114",
+        "output": {
+            "ID": "114",
+            "Description": "Solaris Runtime Linker (SPARC) - 'ld.so.1' Local Buffer Overflow",
+            "Date Published": "2003-10-27",
+            "Author": "osker178",
+            "Platform": "solaris",
+            "Codes": [
+                "OSVDB-8722;CVE-2003-0609"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 116",
+        "output": {
+            "ID": "116",
+            "Description": "NIPrint LPD-LPR Print Server 4.10 - Remote Overflow",
+            "Date Published": "2003-11-04",
+            "Author": "xCrZx",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-17209;CVE-2003-1142"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 117",
+        "output": {
+            "ID": "117",
+            "Description": "Microsoft Windows XP/2000 - RPC Remote Non Exec Memory",
+            "Date Published": "2003-11-07",
+            "Author": "ins1der",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11460;CVE-2003-0605"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 118",
+        "output": {
+            "ID": "118",
+            "Description": "OpenBSD - 'ibcs2_exec' Kernel Code Execution",
+            "Date Published": "2003-11-07",
+            "Author": "Scott Bartram",
+            "Platform": "bsd",
+            "Codes": [
+                "OSVDB-2832;CVE-2003-0955"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 119",
+        "output": {
+            "ID": "119",
+            "Description": "Microsoft Windows XP/2000 - Workstation Service Overflow (MS03-049)",
+            "Date Published": "2003-11-12",
+            "Author": "eEYe",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11461;CVE-2003-0812;MS03-049"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 120",
+        "output": {
+            "ID": "120",
+            "Description": "TerminatorX 3.81 - Local Stack Overflow / Local Privilege Escalation",
+            "Date Published": "2003-11-13",
+            "Author": "Li0n7",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2791"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 121",
+        "output": {
+            "ID": "121",
+            "Description": "Microsoft FrontPage Server Extensions - 'fp30reg.dll' (MS03-051)",
+            "Date Published": "2003-11-13",
+            "Author": "Adik",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-2952;CVE-2003-0822;MS03-051"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 122",
+        "output": {
+            "ID": "122",
+            "Description": "Microsoft Windows - ListBox/ComboBox Control Local (MS03-045)",
+            "Date Published": "2003-11-14",
+            "Author": "xCrZx",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10938;CVE-2003-0659;OSVDB-10937;MS03-045"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 123",
+        "output": {
+            "ID": "123",
+            "Description": "Microsoft Windows - Workstation Service WKSSVC Remote (MS03-049)",
+            "Date Published": "2003-11-14",
+            "Author": "snooq",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11461;CVE-2003-0812;MS03-049"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 125",
+        "output": {
+            "ID": "125",
+            "Description": "OpenBSD 2.x < 3.3 - 'exec_ibcs2_coff_prep_zmagic()' kernel stack overflow",
+            "Date Published": "2003-11-19",
+            "Author": "Sinan Eren",
+            "Platform": "bsd",
+            "Codes": [
+                "OSVDB-2832;CVE-2003-0955"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 126",
+        "output": {
+            "ID": "126",
+            "Description": "Apache mod_gzip (with debug_mode) 1.2.26.1a - Remote Overflow",
+            "Date Published": "2003-11-20",
+            "Author": "xCrZx",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-4650;CVE-2003-0842"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 130",
+        "output": {
+            "ID": "130",
+            "Description": "Microsoft Windows XP - Workstation Service Remote (MS03-049)",
+            "Date Published": "2003-12-04",
+            "Author": "fiNis",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-11461;CVE-2003-0812;MS03-049"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 131",
+        "output": {
+            "ID": "131",
+            "Description": "Linux Kernel 2.4.22 - 'do_brk()' Local Privilege Escalation (2)",
+            "Date Published": "2003-12-05",
+            "Author": "Wojciech Purczynski",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-2887;CVE-2003-0961"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 132",
+        "output": {
+            "ID": "132",
+            "Description": "Apache 1.3.x < 2.0.48 mod_userdir - Remote Users Disclosure",
+            "Date Published": "2003-12-06",
+            "Author": "m00",
+            "Platform": "linux",
+            "Codes": [
+                "OSVDB-9068"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 134",
+        "output": {
+            "ID": "134",
+            "Description": "HP-UX B11.11 - '/usr/bin/ct' Format String Privilege Escalation",
+            "Date Published": "2003-12-16",
+            "Author": "watercloud",
+            "Platform": "hp-ux",
+            "Codes": [
+                "OSVDB-2782;CVE-2003-0090"
+            ]
+        }
+    },
+    {
+        "instruction": "Provide detailed information about the given exploit.",
+        "input": "Exploit ID: 135",
+        "output": {
+            "ID": "135",
+            "Description": "Microsoft Windows Messenger Service (French) - Remote (MS03-043)",
+            "Date Published": "2003-12-16",
+            "Author": "MrNice",
+            "Platform": "windows",
+            "Codes": [
+                "OSVDB-10936;CVE-2003-0717;MS03-043"
+            ]
+        }
+    }
+]
